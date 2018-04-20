@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.example.noone.mvvmsampleone.R;
+import com.example.noone.mvvmsampleone.databinding.StatisticsFragBinding;
 
 
 public class StatisticsFragment extends Fragment {
